@@ -38,7 +38,7 @@
 ## 📫 Contact
 
 - 🌐 Website: [my-style.cn](https://my-style.cn)
-- 📧 Email: contact@my-style.cn
+- 📧 Email: 85363473@qq.com
 - 🐙 GitHub: [@MaiShiCompany](https://github.com/MaiShiCompany)
 
 ---
